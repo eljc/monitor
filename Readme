@@ -1,8 +1,7 @@
-## GO Monitor
+# GO Monitor
 
-### Monitoring Tool
+## Monitoring Tool
 
 Put your sites into file 'sites.txt'
-
 Run
 $ go run main.go
